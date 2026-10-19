@@ -1,0 +1,12 @@
+SoundVolumeView — Copyright Nir Sofer
+Official website and full license: https://www.nirsoft.net/utils/sound_volume_view.html
+
+Audio Router uses SoundVolumeView's documented command-line interface as a
+separate local audio-control engine. The app downloads the utility directly
+from NirSoft only after the user chooses Install audio engine. Its original
+archive files, help, and license are retained, without modification, in
+%LOCALAPPDATA%\AudioRouter\engine. The utility is not included in the source
+repository or source ZIP. Refer to its original files for its license terms.
+
+Audio Router does not record or upload audio. First-run engine download and
+GitHub release metadata checks are the only app-initiated network operations.
